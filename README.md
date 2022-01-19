@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @albertop210
-- 👀 I’m interested in Bioinformatics
+- 👋 Hi, I’m Alberto Peloso
+- 👀 I’m interested in Bioinformatics, cooking fantastic italian food, Molecular Biology and judo
 - 🌱 I’m currently learning Molecular Biology
 - 📫 How to reach me alberto.peloso [at] edu.unife.it
 
