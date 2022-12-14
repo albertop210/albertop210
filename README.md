@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alberto Peloso
 - 👀 I’m interested in Bioinformatics, cooking fantastic italian food, Molecular Biology and judo
-- 🌱 I’m currently a Graduate Research Fellow at University of Padua
+- 🌱 I’m currently a Graduate Research Fellow at the University of Padua
 - 📫 How to reach me alberto.peloso [at] edu.unife.it
 
 <!---
